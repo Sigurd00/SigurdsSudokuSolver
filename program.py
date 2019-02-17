@@ -12,6 +12,7 @@ def main():
 def print_header():
     print('-----------------------')
     print('     Sudoko Solver     ')
+    print('     Made by Sigurd    ')
     print('-----------------------')
 
 
